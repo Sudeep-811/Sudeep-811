@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I'm a passionate AWS enthusiast, and I love buildi
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sudeep-811) 
+- [LinkedIn](https://www.linkedin.com/in/sudeepverma811) 
 
 ---
 

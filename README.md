@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a passionate AWS enthusiast, and I love buildi
 
 ## 🌱 Current Projects
 
-- **ImageIntel**: A project that integrates AWS services like Lambda, Rekognition, and DynamoDB to analyze images in an S3 bucket. Check it out [here](https://github.com/Sudeep-811/AWS-Projects/tree/main/ImageIntel%20with%20AWS%20Rekognition).
+- **ImageIntel**: A project that integrates AWS services like Lambda, Rekognition, and DynamoDB to analyze images in an S3 bucket. Check it out [here](https://github.com/Sudeep-811/AWS-Projects/blob/a4e2e7d99b89282b58f9af6b07dcdbd06d14086a/ImageIntel%20with%20AWS%20Rekognition/ImageIntel%20with%20AWS%20Rekognition.md).
   
 - **GitHub Profile README**: A customized profile to make my GitHub page more interesting! 🎨
 

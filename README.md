@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ImageIntel](https://github.com/Sudeep-811/AWS-Projects/blob/a4e2e7d99b89282b58f9af6b07dcdbd06d14086a/ImageIntel%20with%20AWS%20Rekognition/ImageIntel%20with%20AWS%20Rekognition.md)
 
-- 🌱 I’m currently learning **Infrastructure as Code (IaC)-Terraform, AWS CloudFormation, Machine Learning & AI in the Cloud and exploring other cloud platforms like Azure and GCP**
+- 🌱 I’m currently learning **Terraform, AWS CloudFormation, and Cloud AI/ML, while expanding expertise in Azure and GCP to build scalable, intelligent cloud solutions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sudeep-811/AWS-Projects](https://github.com/Sudeep-811/AWS-Projects)
 

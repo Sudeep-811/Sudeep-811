@@ -1,31 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sudeep Verma</h1>
-<h3 align="center">A passionate AWS enthusiast, and I love building cool projects using the power of cloud technology. Here, you'll find a collection of my work, experiments, and ideas. Whether it's diving deep into serverless architectures, exploring AI integrations, or automating cloud infrastructure, I'm always excited to learn and share.</h3>
+<h1>Hi 👋, I'm Sudeep Verma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep-811&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-811" /> </p>
+<p>Welcome to my GitHub profile. I'm a passionate AWS enthusiast, and I love building cool projects using the power of cloud technology. Here, you'll find a collection of my work, experiments, and ideas. Whether it's diving deep into serverless architectures, exploring AI integrations, or automating cloud infrastructure, I'm always excited to learn and share.</p>
 
-- 🔭 I’m currently working on [ImageIntel](https://github.com/Sudeep-811/AWS-Projects/blob/a4e2e7d99b89282b58f9af6b07dcdbd06d14086a/ImageIntel%20with%20AWS%20Rekognition/ImageIntel%20with%20AWS%20Rekognition.md)
+<hr>
 
-- 🌱 I’m currently learning **Terraform, AWS CloudFormation, and Cloud AI/ML, while expanding expertise in Azure and GCP to build scalable, intelligent cloud solutions.**
+<h2>🌱 Current Projects</h2>
+<ul>
+  <li><b>ImageIntel</b>: A project that integrates AWS services like Lambda, Rekognition, and DynamoDB to analyze images in an S3 bucket. Check it out <a href="https://github.com/Sudeep-811/AWS-Projects/blob/a4e2e7d99b89282b58f9af6b07dcdbd06d14086a/ImageIntel%20with%20AWS%20Rekognition/ImageIntel%20with%20AWS%20Rekognition.md" target="_blank">here</a>.</li>
+  <li><b>GitHub Profile README</b>: A customized profile to make my GitHub page more interesting! 🎨</li>
+</ul>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sudeep-811/AWS-Projects](https://github.com/Sudeep-811/AWS-Projects)
+<hr>
 
-- 📫 How to reach me **Sudeepkv811@gmail.com**
+<h2>💼 What I'm Working On</h2>
+<ul>
+  <li>Exploring more AWS services.</li>
+  <li>Enhancing my cloud automation skills (Terraform, AWS CloudFormation).</li>
+  <li>Learning Cloud AI/ML, while expanding expertise in Azure and GCP to build scalable, intelligent cloud solutions.</li>
+</ul>
 
-- ⚡ Fun fact **Turning data into insight and machines into problem solvers, all with the power of the cloud.**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sudeepverma811" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sudeepverma811" height="30" width="40" />
+<h2>🛠️ Technologies & Tools</h2>
+<ul>
+  <li><b>Cloud</b>: AWS (Lambda, S3, DynamoDB, Rekognition)</li>
+  <li><b>Languages</b>: Python, JavaScript</li>
+  <li><b>DevOps</b>: Terraform, CloudFormation</li>
+  <li><b>Tools</b>: GitHub Actions, VS Code</li>
+</ul>
+
+<hr>
+
+<h2>📫 Let's Connect</h2>
+<p>
+  <a href="https://www.linkedin.com/in/sudeepverma811" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
+<h3>Fun Fact:</h3>
+<p>Turning data into insight and machines into problem solvers, all with the power of the cloud.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeep-811&show_icons=true&locale=en&layout=compact" alt="sudeep-811" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeep-811&show_icons=true&locale=en" alt="sudeep-811" /></p>
+<p>Thanks for visiting! 😄</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-811&" alt="sudeep-811" /></p>

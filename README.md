@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **Sudeepkv811@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sudeepverma811](https://www.linkedin.com/in/sudeepverma811)
-
 - ⚡ Fun fact **Turning data into insight and machines into problem solvers, all with the power of the cloud.**
 
 <h3 align="left">Connect with me:</h3>

@@ -2,6 +2,9 @@
 
 <p>Welcome to my GitHub profile. I'm a passionate AWS enthusiast, and I love building cool projects using the power of cloud technology. Here, you'll find a collection of my work, experiments, and ideas. Whether it's diving deep into serverless architectures, exploring AI integrations, or automating cloud infrastructure, I'm always excited to learn and share.</p>
 
+<!-- GitHub Profile Views Badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep-811&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-811" /> </p>
+
 <hr>
 
 <h2>🌱 Current Projects</h2>
@@ -46,4 +49,3 @@
 <hr>
 
 <p>Thanks for visiting! 😄</p>
-

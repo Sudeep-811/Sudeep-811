@@ -11,7 +11,12 @@
 <ul>
   <li><b>ImageIntel</b>: A project that integrates AWS services like Lambda, Rekognition, and DynamoDB to analyze images in an S3 bucket. Check it out <a href="https://github.com/Sudeep-811/AWS-Projects/blob/a4e2e7d99b89282b58f9af6b07dcdbd06d14086a/ImageIntel%20with%20AWS%20Rekognition/ImageIntel%20with%20AWS%20Rekognition.md" target="_blank">here</a>.</li>
 
-  <li><b>Scalable Web App (IaC)</b>: A Terraform-powered project that automates the deployment of a scalable web application on AWS. It integrates ALB, EC2, RDS, and a NAT Gateway to ensure high availability, security, and efficient resource management. Check it out <a href="https://github.com/Sudeep-811/AWS-Projects/tree/246b85f9acc9f0bd7b727c221a070252059612cd/Scalable%20Web%20App%20(Iac)>here</a>.</li>
+  <li>
+    <b>Scalable Web App (IaC)</b>: A Terraform-powered project that automates the deployment of a scalable web application on AWS. 
+    It integrates ALB, EC2, RDS, and a NAT Gateway to ensure high availability, security, and efficient resource management. 
+    Check it out <a href="https://github.com/Sudeep-811/AWS-Projects/tree/246b85f9acc9f0bd7b727c221a070252059612cd/Scalable%20Web%20App%20(Iac)" target="_blank">here</a>.
+  </li>
+
                                                                                                                                                                                                                                                                              
   <li><b>GitHub Profile README</b>: A customized profile to make my GitHub page more interesting! 🎨</li>
 </ul>
